@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Micro-Habit Reminder</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js"></script>
+
+</head>
+<body>
+
+  <div class="card">
+    <h1>Micro-Habit Reminder</h1>
+    <p class="subtitle">Healthy habits, on time</p>
+
+    <!-- Habit Selection -->
+    <div class="field">
+      <label>Choose Habit</label>
+      <select>
+        <option>💨 Deep Breath</option>
+        <option>💧 Drink Water</option>
+        <option>🧍 Stretch</option>
+        <option>👀 Eye Break</option>
+      </select>
+    </div>
+
+    <!-- Interval -->
+    <div class="field">
+      <label>Reminder Interval</label>
+      <div class="interval">
+        <input type="number" value="30" min="1" />
+        <span>minutes</span>
+      </div>
+    </div>
+
+    <!-- Buttons -->
+    <div class="buttons">
+      <button class="start">▶ Start</button>
+      <button class="stop" disabled>☐ Stop</button>
+    </div>
+
+    <!-- Status -->
+    <div class="status-box">
+      <span class="dot"></span>
+      <div>
+        <small>Status</small>
+        <p>Stopped</p>
+      </div>
+    </div>
+
+    <!-- Progress -->
+    <div class="progress-box">
+      <div class="progress-header">
+        <span>Completed Today</span>
+        <span class="count">0</span>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-fill"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
